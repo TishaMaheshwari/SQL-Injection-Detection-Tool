@@ -1,0 +1,56 @@
+==============================
+Date: Sat Feb 28 04:06:55 2026
+Target URL: http://testphp.vulnweb.com/artists.php?artist=1
+Manual Result: SAFE
+Payloads: None
+Automated Result: VULNERABLE
+------------------------------
+
+==============================
+Date: Sat Feb 28 04:07:57 2026
+Target URL: http://testphp.vulnweb.com/artists.php?artist=1
+Manual Result: SAFE
+Payloads: None
+Automated Result: VULNERABLE
+------------------------------
+
+==============================
+Date: Sat Feb 28 04:11:05 2026
+Target URL: http://localhost/dhttpvwa/vulnerabilities/sqli/?id=1&Submit=Submit
+Manual Result: SAFE
+Payloads: None
+Automated Result: SAFE
+------------------------------
+
+==============================
+Date: Sat Feb 28 04:12:18 2026
+Target URL: http://testphp.vulnweb.com/artists.php?artist=1
+Manual Result: SAFE
+Payloads: None
+Automated Result: VULNERABLE
+------------------------------
+
+==============================
+Date: Sat Feb 28 04:19:11 2026
+Target URL: http://testphp.vulnweb.com/artists.php?artist=1
+Manual Result: SAFE
+Payloads: None
+Automated Result: VULNERABLE
+------------------------------
+
+==============================
+Date: Sat Feb 28 04:21:41 2026
+Target URL: http://testphp.vulnweb.com/artists.php?artist=1
+Manual Result: SAFE
+Payloads: None
+Automated Result: VULNERABLE
+------------------------------
+
+==============================
+Date: Sat Feb 28 04:33:34 2026
+Target URL: http://testphp.vulnweb.com/artists.php?artist=1
+Manual Result: SAFE
+Payloads: None
+Automated Result: VULNERABLE
+------------------------------
+

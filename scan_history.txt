@@ -1,0 +1,132 @@
+
+SQL Injection Detection Report
+Date: 2026-02-27 10:58:03.387561
+Target: http://localhost/dvwa/vulnerabilities/sqli/?id=1&submit=submit
+
+Manual Result: SAFE
+Payloads: 
+
+Automated Result: VULNERABLE
+Severity: HIGH
+
+---
+
+SQL Injection Detection Report
+Date: 2026-02-27 11:02:11.359757
+Target: http://testphp.vulnweb.com/listproducts.php?cat=1
+
+Manual Result: SAFE
+Payloads: 
+
+Automated Result: VULNERABLE
+Severity: HIGH
+
+---
+
+SQL Injection Detection Report
+Date: 2026-02-27 11:21:50.099818
+Target: http://localhost/dvwa/vulnerabilities/sqli/?id=1&Submit=Submit
+
+Manual Result: SAFE
+Payloads: 
+
+Automated Result: VULNERABLE
+Severity: HIGH
+
+---
+
+SQL Injection Detection Report
+Date: 2026-02-27 11:32:48.571736
+Target: http://localhost/dvwa/vulnerabilities/sqli/?id=1&Submit=Submit
+
+Manual Result: VULNERABLE
+Payloads: ', ' OR 1=1 --, ' OR 'a'='a, 1' OR '1'='1, ' UNION SELECT NULL,NULL --, ' AND SLEEP(5) --
+
+Automated Result: VULNERABLE
+Severity: HIGH
+
+---
+
+SQL Injection Detection Report
+Date: 2026-02-28 03:04:26.806504
+Target: http://testphp.vulnweb.com/listproducts.php?cat=1
+
+Manual Result: VULNERABLE
+Payloads: ', ' OR 1=1 --, ' OR 'a'='a, 1' OR '1'='1, ' UNION SELECT NULL,NULL --, ' AND SLEEP(5) --
+
+Automated Result: SAFE
+Severity: HIGH
+
+---
+
+SQL Injection Detection Report
+Date: 2026-02-28 03:11:24.538051
+Target: http://testphp.vulnweb.com/artists.php?artist=1
+
+Manual Result: VULNERABLE
+Payloads: ', ' OR 1=1 --, ' OR 'a'='a, 1' OR '1'='1, ' UNION SELECT NULL,NULL --, ' AND SLEEP(5) --
+
+Automated Result: VULNERABLE
+Severity: HIGH
+
+---
+
+SQL Injection Detection Report
+Date: 2026-02-28 03:15:47.924157
+Target: http://testphp.vulnweb.com/artists.php?artist=1
+
+Manual Result: VULNERABLE
+Payloads: ', ' OR 1=1 --, ' OR 'a'='a, 1' OR '1'='1, ' UNION SELECT NULL,NULL --, ' AND SLEEP(5) --
+
+Automated Result: SAFE
+Severity: HIGH
+
+---
+
+SQL Injection Detection Report
+Date: 2026-02-28 03:27:32.842360
+Target: http://localhost/dvwa/vulnerabilities/sqli/?id=1&Submit=Submit
+
+Manual Result: VULNERABLE
+Payloads: ', ' OR 1=1 --, ' OR 'a'='a, 1' OR '1'='1, ' UNION SELECT NULL,NULL --, ' AND SLEEP(5) --
+
+Automated Result: VULNERABLE
+Severity: HIGH
+
+---
+
+SQL Injection Detection Report
+Date: 2026-02-28 03:28:12.429779
+Target: http://testphp.vulnweb.com/artists.php?artist=1
+
+Manual Result: VULNERABLE
+Payloads: ', ' OR 1=1 --, ' OR 'a'='a, 1' OR '1'='1, ' UNION SELECT NULL,NULL --, ' AND SLEEP(5) --
+
+Automated Result: SAFE
+Severity: HIGH
+
+---
+
+SQL Injection Detection Report
+Date: 2026-02-28 04:00:56.043207
+Target: http://localhost/dhttpvwa/vulnerabilities/sqli/?id=1&Submit=Submit
+
+Manual Result: SAFE
+Payloads: 
+
+Automated Result: SAFE
+Severity: LOW
+
+---
+
+SQL Injection Detection Report
+Date: 2026-02-28 04:02:22.124999
+Target: http://testphp.vulnweb.com/artists.php?artist=1
+
+Manual Result: SAFE
+Payloads: 
+
+Automated Result: VULNERABLE
+Severity: HIGH
+
+---

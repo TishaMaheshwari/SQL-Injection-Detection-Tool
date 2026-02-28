@@ -1,0 +1,10 @@
+
+SQL Injection Detection Report
+Date: 2026-02-28 04:02:22.124999
+Target: http://testphp.vulnweb.com/artists.php?artist=1
+
+Manual Result: SAFE
+Payloads: 
+
+Automated Result: VULNERABLE
+Severity: HIGH
