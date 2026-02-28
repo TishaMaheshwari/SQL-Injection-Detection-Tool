@@ -56,3 +56,11 @@ sql_injection_tool/
 ├── history.txt
 ├── SQL_Report.pdf
 └── README.md
+
+---
+
+
+## contributors
+
+- Tisha Maheshwari
+- Nida Razzaq 
